@@ -1,8 +1,13 @@
 # M.L-house-price-predection
 
 This is my first M.L made using python, Housing price prediction (M.L) is .ipynb extention file.
+-->This code can be executed using google colab or any other .ipynb supported platforms
+Inorder to run this program click on "Open in colab"
 
-Inorder to use this we need a dataset which contains multiple parmeters like size of house, street , Year of construction etc., now, using this parameters this code will predict the best houses with its price.
+Objective:(In Technical Terminology):
+The leaf of this program is SalePrice and its Branches are user defined parameters!
+
+To use this program we need a dataset which contains multiple parmeters like size of house, street , Year of construction etc., now, using this parameters this code will predict the best houses to its price map.
 
 #Input data:
 URL to your input dataset should be added to the variable named 'file_url'.
